@@ -4,7 +4,7 @@ module.exports = {
  version: "1.0", 
  author: "Ayoub ßťøçïo", 
  countDown: 5, 
- role: 2, 
+ role: 0, 
  shortDescription: {
  vi: "đây là mô tả ngắn của lệnh",
  en: "this is short description of command"
