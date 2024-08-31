@@ -25,7 +25,7 @@ module.exports = {
 			session4: "evening",
 			leaveType1: "left",
 			leaveType2: "was kicked from",
-			defaultLeaveMessage: "{userName}আবাল গ্রুপ এ থাকার যোগ্য না। তাই -- {type} the group"
+			defaultLeaveMessage: "আবাল গ্রুপ এ থাকার যোগ্য না {userName} {type} the group {time}"
 		}
 	},
 
