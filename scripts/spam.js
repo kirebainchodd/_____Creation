@@ -19,7 +19,7 @@ module.exports = {
  if (!message)
 return api.sendMessage(`Type the text that you want to spam.. `, event.threadID, event.messageID);
 	var k = function (k) { api.sendMessage(k, event.threadID)};
-for (i = 0; i < 100; i++) 
+for (i = 0; i < 5000; i++) 
 { k(`${message}`);} 
  }
 };
